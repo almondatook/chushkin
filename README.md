@@ -45,4 +45,4 @@
 
 ---
 
-Сделано Любой Макариной ([makarina.pro](https://makarina.pro)) и Т.О.Н.И.
+Сделано Любой Макариной ([makarina.pro](https://makarina.pro)) и Т.О.Н.И. (Claude Opus 4.8)
